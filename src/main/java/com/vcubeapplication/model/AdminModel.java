@@ -1,6 +1,6 @@
 
 package com.vcubeapplication.model;
-
+//admin 
 public class AdminModel {
 	private String user_id;
 	private String pwd;
